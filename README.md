@@ -2,12 +2,14 @@
 
 
 
-Olá! Bem vindo ao meu livro de receitas
+Olá! Bem vindo ao meu livro de receitas, aqui irá encontrar o necessário para obter sucesso em sua vida.
 
-- Vagina
+- PC
+- Teclado
+- Mouse
+- Monitor
 
-- Pinto
+### Requisitos mínimos
 
-- Filho
+- Saber programar.
 
-  
